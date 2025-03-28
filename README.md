@@ -1,5 +1,5 @@
 # GGS-Ltd.-Assessment-
-Project Overview
+# Project Overview
 
 This project provides a simple user display and edit and delete functionality using React.js. The application fetches user data from an API.
 
@@ -7,7 +7,7 @@ It also const of login
 
 ----------------
 
-Prerequisites
+# Prerequisites
 
 Ensure you have the following installed:
 
@@ -19,7 +19,7 @@ A running backend API with user data (Assumed: import.meta.env.VITE_BASE_URL is 
 
 -----------------
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -33,7 +33,7 @@ npm install
 
 -------------------
 
-Environment Variables
+# Environment Variables
 
 Create a .env file in the root directory and define:
 
@@ -41,7 +41,7 @@ VITE_BASE_URL=https://your-api-url.com/
 
 ------------------
 
-Running the Project
+# Running the Project
 
 Start the development server:
 
