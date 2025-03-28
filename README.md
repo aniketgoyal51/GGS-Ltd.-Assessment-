@@ -5,6 +5,8 @@ This project provides a simple user display and edit and delete functionality us
 
 It also const of login 
 
+----------------
+
 Prerequisites
 
 Ensure you have the following installed:
@@ -14,6 +16,8 @@ Node.js (Recommended: v16 or later)
 npm
 
 A running backend API with user data (Assumed: import.meta.env.VITE_BASE_URL is correctly set in .env)
+
+-----------------
 
 Installation
 
@@ -27,11 +31,15 @@ Install dependencies:
 
 npm install
 
+-------------------
+
 Environment Variables
 
 Create a .env file in the root directory and define:
 
 VITE_BASE_URL=https://your-api-url.com/
+
+------------------
 
 Running the Project
 
